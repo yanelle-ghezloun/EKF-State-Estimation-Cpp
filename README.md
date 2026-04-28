@@ -75,6 +75,7 @@ demonstrating real-time state estimation in C++.
 
 ## Project Structure
 
+```
 EKF-State-Estimation-Cpp/
 ├── include/
 │   └── ekf.h          # EKF class definition
@@ -85,6 +86,7 @@ EKF-State-Estimation-Cpp/
 │   └── ekf_cpp_result.png
 ├── plot.py            # Python visualization script
 └── CMakeLists.txt
+```
 
 ## Dependencies & Setup
 
